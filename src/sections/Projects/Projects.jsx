@@ -14,19 +14,19 @@ function Projects() {
           src={viberr}
           link="https://github.com/shivareddy17/calculator/tree/main/projects%20web"
           h3="Calculator app"
-          p="App"
+          p=""
         />
         <ProjectCard
           src={freshBurger}
           link="https://github.com/shivareddy17/todo"
           h3="To-do list"
-          p="Hamburger Restaurant"
+          p=""
         />
         <ProjectCard
           src={hipsster}
           link="https://github.com/shivareddy17/Course-selling-app/tree/master"
           h3="Course selling app"
-          p="Glasses Shop"
+          p=""
         />
         <ProjectCard
           src={fitLift}
