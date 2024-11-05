@@ -13,6 +13,12 @@ function nav() {
     <div className={styles.colorModeChanger}>
             {/* <img className={styles.hero} src={HeroImg} alt="Shiva avatar" />
             mode */}
+        <ul>
+        <li>Home</li>
+            <li>projects</li>
+            <li>skills</li>
+            
+        </ul>
             <img className={styles.colorMode} src={themeIcon} alt="color mode changer" onClick={toggleTheme} />
         </div>
         </>
